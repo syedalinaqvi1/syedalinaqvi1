@@ -1,4 +1,19 @@
-### Hi there 👋
+### Qualified Web and Mobile app developer with 3+ years of experience in delivering value-driven applications, that skyrocket on google, play store and app store.
+My skillset is:
+💎React JS
+💎React Native
+💎Node JS
+💎Express JS
+💎MongoDB
+💎SQL
+💎Sockets.io
+💎Javascript
+💎HTML
+💎CSS
+💎Firebase/Firestore
+💎AndroidStudio
+💎code review
+💎communication with customers.
 
 <!--
 **SyedHaiderAli1/SyedHaiderAli1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
