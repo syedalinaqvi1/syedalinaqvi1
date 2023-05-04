@@ -1,19 +1,19 @@
-### Qualified Web and Mobile app developer with 3+ years of experience in delivering value-driven applications, that skyrocket on google, play store and app store.
-My skillset is:
-💎React JS
-💎React Native
-💎Node JS
-💎Express JS
-💎MongoDB
-💎SQL
-💎Sockets.io
-💎Javascript
-💎HTML
-💎CSS
-💎Firebase/Firestore
-💎AndroidStudio
-💎code review
-💎communication with customers.
+### QQualified Web application developer with 3+ years of experience in delivering value-driven applications. I believe in creating and delivering user-centric applications and solutions.
+My skill set is:
+
+✅ Frontend - HTML, CSS, SCSS, Tailwind CSS, Bootstrap, ReactJS, NextJS, Styled Component, Material UI, WebSockets, Webpack, Babel, Eslint, Ant design, Chakra UI, HeadlessUI, Redux, Core UI, etc.
+
+✅ Backend - NodeJS, Express, TypeScript, JavaScript, NestJS, Firebase.
+
+✅ Database - MySQL, Firebase, SQLite, PostgreSQL, MongoDB.
+
+✅ Version Control - Git, GitHub, Bit Bucket.
+
+✅ Tools - VS Code, Visual Studio, X-Code.
+
+✅ Collaboration Tools - JIRA, ASANA, Azure, Slack, Trello.
+
+✅ Cloud services - Firebase, Heroku, Vercel, Netlify, AWS, AWS Cognito.
 
 <!--
 **SyedHaiderAli1/SyedHaiderAli1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
