@@ -1,4 +1,4 @@
-### QQualified Web and Mobile application developer with 3+ years of experience in delivering value-driven applications. I believe in creating and delivering user-centric applications and solutions.
+### Qualified Web and Mobile application developer with 3+ years of experience in delivering value-driven applications. I believe in creating and delivering user-centric applications and solutions.
 My skill set is:
 
 ✅ Frontend - HTML, CSS, SCSS, Tailwind CSS, Bootstrap, ReactJS,React Native NextJS, Styled Component, Material UI, WebSockets, Webpack, Babel, Eslint, Ant design, Chakra UI, HeadlessUI, Redux, Core UI, etc.
