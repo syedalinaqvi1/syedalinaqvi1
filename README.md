@@ -18,7 +18,7 @@
 * 🌐 You can see some of my projects on [my portfolio](https://naqvid.com/)
 
 <p align="left">
-  <a href="https://www.verticalsols.com/mobile-app"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://naqvid.com/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 ## 🔥 My contribution streak
