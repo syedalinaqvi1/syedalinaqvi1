@@ -12,7 +12,7 @@
 
 ## 📖 About me
 
-* 💻 I'm a mobile applications developor 
+* 💻 I'm a mobile applications developer 
 * 📱 I make apps for Android and iOS
 * 🎓 I'm a Computer Science graduate
 * 🌐 You can see some of my projects on [my portfolio](https://naqvid.com/)
