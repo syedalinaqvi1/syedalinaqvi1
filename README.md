@@ -15,7 +15,7 @@
 * 💻 I'm a mobile applications developer 
 * 📱 I make apps for Android and iOS
 * 🎓 I'm a Computer Science graduate
-* 🌐 You can see some of my projects on [my portfolio](https://naqvid.com/)
+* 🌐 You can see some of my projects on [my portfolio](https://naqvid.com/).
 
 <p align="left">
   <a href="https://naqvid.com/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
