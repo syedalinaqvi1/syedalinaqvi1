@@ -1,13 +1,10 @@
 <h1 align="center">Hi, I'm Syed Haider Ali! 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" alt="Coding gif">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="400" alt="Coding Gif">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
   <a href="https://twitter.com/yourprofile">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
@@ -19,10 +16,9 @@
 ---
 
 ## 🌟 About Me
-- 🔭 I’m currently working on **Different Projects**
-- 🌱 I’m skilled in **Flutter** and **Android App Development**
+
+- 🌱 I am a passionate Flutter Developer with extensive experience in mobile app development. My expertise lies in building robust, scalable, and user-friendly applications for         both Android and iOS platforms. I have a strong background in designing and implementing complex features, ensuring seamless user experiences across devices.
 - 💬 Ask me about **Flutter** or **Android App Development**
-- 📫 How to reach me ** Email and contact**
 
 ---
 
@@ -50,19 +46,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Syed's GitHub Stats">
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark" alt="GitHub Trophies">
-</p>
-
 ---
 
 ## 📫 Connect with Me
 
-<p align="center">
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white">
-  </a>
-</p>
+ I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
