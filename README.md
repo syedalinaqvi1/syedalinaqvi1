@@ -8,7 +8,9 @@
 
 ## 🌟 About Me
 
-- 🌱 I am a passionate Flutter Developer with extensive experience in mobile app development. My expertise lies in building robust, scalable, and user-friendly applications for         both Android and iOS platforms. I have a strong background in designing and implementing complex features, ensuring seamless user experiences across devices.
+- 🌱 I am a passionate Flutter Developer with extensive experience in mobile app development.
+     My expertise lies in building robust, scalable, and user-friendly applications for both Android and iOS platforms.
+     I have a strong background in designing and implementing complex features, ensuring seamless user experiences across devices.
 - 💬 Ask me about **Flutter** or **Android App Development**
 
 ---
