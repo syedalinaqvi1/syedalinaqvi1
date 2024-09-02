@@ -28,15 +28,6 @@ With a deep understanding of the Flutter framework and its capabilities, I speci
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Syed's GitHub Stats">
-</p>
-
----
 
 ## 📫 Connect with Me
 
